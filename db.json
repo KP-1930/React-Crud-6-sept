@@ -1,0 +1,35 @@
+{
+    "user": [
+        {
+            "id": 1,
+            "name": "Satheesh",
+            "email": "Sat@mail.com",
+            "address": "South street",
+            "contact" : "9898123456"
+        },
+        {
+            "id": 2,
+            "name": "John",
+            "email": "john@mail.com",
+            "address": "North street",
+            "contact" : "9898123457"
+
+        },
+        {
+            "id": 3,
+            "name": "Robert",
+            "email": "robert@mail.com",
+            "address": "East street",
+            "contact" : "9898123458"
+
+        },
+        {
+            "id": 4,
+            "name": "Mani",
+            "email": "mani@mail.com",
+            "address": "West street",
+            "contact" : "9898123459"
+
+        }
+    ]
+}
