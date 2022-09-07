@@ -1,35 +1,53 @@
 {
-    "user": [
-        {
-            "id": 1,
-            "name": "Satheesh",
-            "email": "Sat@mail.com",
-            "address": "South street",
-            "contact" : "9898123456"
-        },
-        {
-            "id": 2,
-            "name": "John",
-            "email": "john@mail.com",
-            "address": "North street",
-            "contact" : "9898123457"
-
-        },
-        {
-            "id": 3,
-            "name": "Robert",
-            "email": "robert@mail.com",
-            "address": "East street",
-            "contact" : "9898123458"
-
-        },
-        {
-            "id": 4,
-            "name": "Mani",
-            "email": "mani@mail.com",
-            "address": "West street",
-            "contact" : "9898123459"
-
-        }
-    ]
+  "user": [
+    {
+      "id": 1,
+      "name": "Satheesh",
+      "email": "Sat@mail.com",
+      "address": "South street",
+      "contact": "9898123456"
+    },
+    {
+      "id": 2,
+      "name": "John",
+      "email": "john@mail.com",
+      "address": "North street",
+      "contact": "9898123457"
+    },
+    {
+      "id": 3,
+      "name": "Robert",
+      "email": "robert@mail.com",
+      "address": "East street",
+      "contact": "9898123458"
+    },
+    {
+      "name": "kalpesh",
+      "email": "kalpesh@gmail.com",
+      "contact": "9898366357",
+      "address": "India",
+      "id": 4
+    },
+    {
+      "name": "shivangbhai",
+      "email": "shivangpra@gmail.com",
+      "contact": "123456485",
+      "address": "Australian",
+      "id": 5
+    },
+    {
+      "name": "ujash2",
+      "email": "ujash2@gmail.com",
+      "contact": "12345678952",
+      "address": "Delhi2",
+      "id": 6
+    },
+    {
+      "name": "ffg",
+      "email": "fgf@sdsd.in",
+      "contact": "1234",
+      "address": "sdsdsd",
+      "id": 7
+    }
+  ]
 }

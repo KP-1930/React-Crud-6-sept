@@ -11,3 +11,26 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+
+.addUser {
+  right: -600px;
+  position: relative;
+}
+
+.button_div {
+  margin-top: 10px;
+}
+
+.backButton {
+  margin-left: 500px;
+  margin-top: 50px;
+}
+
+.errorFields {
+  right: -500px;
+  position: relative;
+
+
+}
+
